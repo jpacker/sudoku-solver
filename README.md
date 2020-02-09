@@ -5,6 +5,6 @@ Accepts input files of initial boards where each row is a comma separated list o
 
 Example:
 
-2,3,1,0
-0,0,2,1
-4,1,0,3
+2,3,1,0  
+0,0,2,1  
+4,1,0,3  
